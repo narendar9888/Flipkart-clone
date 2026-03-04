@@ -1,0 +1,59 @@
+#nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+#nav1 {
+    display: flex;
+    flex-direction: column;
+}
+
+#logo_name1 {
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #3a68cd;
+    font-weight: bold;
+}
+
+#nav1-2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#logo_name2 {
+    color: #b6b6b6;
+    font-size: 20px;
+}
+
+#logo_name3 {
+    color: #dcb93c;
+    font-size: 20px;
+}
+
+#nev2 {
+    display: flex;
+    border: 3px solid black;
+    width: 400px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#search-input {
+    width: 500px;
+    height: 30px;
+    border: none;
+    padding-left: 10px;
+}
+
+#Seller {
+    margin-left: 10px;
+}
+
+#signin {
+    margin-left: 10px;
+}
+
+#cart {
+    margin-left: 10px;
+}
